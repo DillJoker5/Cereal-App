@@ -7,10 +7,11 @@
                         <v-list-item :key='index'>
                             <v-list-item-content>{{item.title}}</v-list-item-content>
                         </v-list-item>
+                        <v-divider :key='`div-${index}`'/>
                     </template>
                 </v-list>
             </v-navigation-drawer>
-            <v-app-bar-icon class='hidden-md-and-up'></v-app-bar-icon>
+            <v-app-bar-icon @click='drawer = !drawer' class='hidden-md-and-up'></v-app-bar-icon>
             <v-img max-width='40' src='@/assets/cerealLogo.png'> 
             </v-img>
             <router-link to='/'>
@@ -30,11 +31,11 @@
         data() {
             drawer: true;
             items: [
-                { title: 'Flavors' },
-                { title: 'Details' },
-                { title: 'Consumption Instructions' },
-            ];
-        };
+                { title: 'Flavors', url:'/flavors' },
+                { title: 'Details', url:'/details' },
+                { title: 'Consumption Instructions', url:'consumptioninstructions' },
+            ]
+        }
     };
 </script>
 
