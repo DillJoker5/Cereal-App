@@ -1,9 +1,14 @@
 <template>
-  <h1>Cereal Title and Placeholder</h1>
+  <span>
+    <home-hero />
+  </span>
 </template>
 
 <script>
+import HomeHero from '../components/HomeHero.vue';
+
 export default {
+  components: { HomeHero },
   name: "Home",
 };
 </script>
