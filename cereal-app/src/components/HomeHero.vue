@@ -21,6 +21,6 @@ export default {
     background-image: url('../assets/background.jpg');
     background-size: cover;
     background-repeat: no-repeat;
-
+    max-height: 100 vh;
 }
 </style>
