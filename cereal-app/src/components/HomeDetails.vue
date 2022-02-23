@@ -6,7 +6,7 @@
             </v-col>
         </v-row>
         <v-row>
-            <v-col sm='6' md='4'>
+            <v-col sm='6' md='4'> 
                 <v-card>
                     <v-img src='@/assets/captain-crunch.jfif' height='400'></v-img>
                     <v-card-title>Captain Crunch</v-card-title>
@@ -35,6 +35,8 @@
 export default {
     name: 'HomeDetails'
 }
+
+// v-for is on the cols;
 </script>
 
 <style scoped>

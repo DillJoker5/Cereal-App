@@ -2,16 +2,16 @@
     {
         "id": 123,
         "name": "Lint",
-        "description": "This is pocked flavored",
+        "description": "This is pocked flavored"
     },
     {
         "id": 124,
         "name": "Sweatshirt Pocket Lint",
-        "description": "This is pocket flavored with a bit more sweatshirtyness",
+        "description": "This is pocket flavored with a bit more sweatshirtyness"
     },
     {
         "id": 125,
         "name": "Dryer Lint",
-        "description": "Straight outta the dryer",
+        "description": "Straight outta the dryer"
     }
 ]

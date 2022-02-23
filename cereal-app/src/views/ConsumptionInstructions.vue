@@ -1,9 +1,11 @@
 <template>
-    <h1>Placeholder for Consumption Instructions</h1>
+    <identity-theft />
 </template>
 
 <script>
+import IdentityTheft from '../components/IdentityTheft.vue';
 export default {
-    name: 'ConsumptionInstructions',
+  components: { IdentityTheft },
+  name: 'ConsumptionInstructions',
 };
 </script>
