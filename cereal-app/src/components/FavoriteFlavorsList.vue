@@ -7,7 +7,7 @@
         </v-row>
         <v-row>
             <v-col sm='6' md='4' v-for='favoriteFlavor in favoriteFlavors' :key='favoriteFlavor.id'>
-                <v-img src=`@/assets/FavoriteFlavors/${favoriteFlavor.image}` height='400' />
+                <v-img src='../assets/FavoriteFlavors/'+favoriteFlavor.image height='400' />
                 <v-card-title>{{favoriteFlavor.name}}</v-card-title>
                 <v-card-text>{{favoriteFlavor.description}}</v-card-text>
             </v-col>
