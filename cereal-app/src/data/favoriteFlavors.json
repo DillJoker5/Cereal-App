@@ -1,0 +1,62 @@
+[
+    {
+        "id": 1112,
+        "name": "Cheerios",
+        "image": "cheerios.jpg",
+        "description": "Cheerios are the most basic cereal out there. They are a classic though and they will continue to be good. However if this is your favorite you are very bland!"
+    }, 
+    {
+        "id": 1111,
+        "name": "Chips Ahoy",
+        "image": "chipsAhoy.jpg",
+        "description": "Chips Ahoy cereal takes similarly to the cookie. It isn't nearly as good, but it does the trick in the morning if you have a sweet tooth. Overall, 7/10 cereal."
+    }, 
+    {
+        "id": 1113,
+        "name": "Cinnamon Toast Crunch",
+        "image": "cinnamonToastCrunch.jpg",
+        "description": "Cinnamon Toast Crunch is a classic cereal! It is not only good, but it has been around for generations. With Cinnamon Toast Crunch's track record, it is a cereal that will be around FOREVER."
+    }, 
+    {
+        "id": 1114,
+        "name": "Clintons Crispies",
+        "image": "clintonsCrispies.jpg",
+        "description": "Clintons Crispies is one of the weirdest cereals out there. Since I have never heard of this cereal before, I cannot judge the taste of it. However the box looks old, so maybe it was good?"
+    }, 
+    {
+        "id": 1115,
+        "name": "Corn Flakes",
+        "image": "cornFlakes.jpg",
+        "description": "Corn Flakes is another very bland and disgusting cereal. If this is your favorite cereal, why do you even eat cereal? Get some sweeter tasting stuff and stop worrying about being healthy! IT'S CEREAL!!!"
+    }, 
+    {
+        "id": 1116,
+        "name": "Frosted Flakes",
+        "image": "frostedFlakes.jpg",
+        "description": "Frosted Flakes is one of everybody's favorite cereals! Not only does it taste good with and without milk, but the advertising with this brand is amazing! Frosted Flakes will continue to dominate the cereal market FOREVER!"
+    }, 
+    {
+        "id": 1117,
+        "name": "Millenios",
+        "image": "millenios.jpg",
+        "description": "Millenios is another cereal I have never heard of. It seems to be a cheap knock-off of Cheerios. Why would you want to be a cheap knock-off of a great cereal brand. Just doesn't seem like a good idea to me."
+    }, 
+    {
+        "id": 1118,
+        "name": "Shrimp Smacks",
+        "image": "shrimpSmacks.jpg",
+        "description": "Shrimp Smacks is a LEGENDARY cereal. From the name of this cereal, to the box ,and the taste! This cereal is one that everybody has to try. Trust me you will not be disappointed trying this cereal!"
+    }, 
+    {
+        "id": 1119,
+        "name": "Trix Swirls",
+        "image": "trixSwirls.jpg",
+        "description": "Trix, especially Trix Swirls, is another classic cereal from everybody's childhood. The packaging, branding, and even the taste are all great! Plus, it's a cereal with a swirl in it! What's not to love about cool looking food!"
+    }, 
+    {
+        "id": 1121,
+        "name": "Wormy Ohs",
+        "image": "wormyOhs.jpg",
+        "description": "Wormy Ohs is one of the most interesting cereals out there. Being a cereal that basically nobody has heard isn't always good. However, it is the thought that counts after all!"
+    }
+]

@@ -36,10 +36,6 @@ export default {
     }
 };
 
-/*
-{ id: 1, name: 'Frank' },
-                { id: 2, name: 'John' },
-*/
 </script>
 
 <style scoped>
